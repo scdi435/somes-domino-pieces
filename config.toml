@@ -1,0 +1,5 @@
+[repository]
+REGISTRY_NAME = "scdi435"
+REPOSITORY_NAME = "somes-domino-pieces"
+REPOSITORY_LABEL = "SOMES -Self Optimizing Microgrid Energy Scheduler"
+VERSION = "0.1.0"
